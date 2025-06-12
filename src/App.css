@@ -1,0 +1,36 @@
+.App {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.user-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pagination {
+  margin-top: 1.5rem;
+}
+
+.pagination button {
+  margin: 0 5px;
+  padding: 8px 12px;
+  border: solid 1px #ffc400;
+  background-color: #8b8473;
+  cursor: pointer;
+  border-radius: 4px;
+  color: #000000;
+}
+.pagination button.active {
+  background-color: #ffc400;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+
+.pagination button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+

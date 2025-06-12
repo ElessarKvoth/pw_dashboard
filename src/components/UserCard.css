@@ -1,0 +1,35 @@
+.user-card {
+  border: 2px solid #ffc400;           /* amarelo */
+  border-radius: 12px;
+  padding: 1.2rem;
+  margin: 1rem;
+  text-align: center;
+  width: 250px;
+  background: linear-gradient(135deg, #232323 80%, #ffc400 100%);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+  color: #fff;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.user-card:hover {
+  transform: translateY(-6px) scale(1.03);
+  box-shadow: 0 8px 24px rgba(255,196,0,0.18), 0 2px 8px rgba(0,0,0,0.22);
+}
+
+.user-card img {
+  width: 100px;
+  border-radius: 50%;
+  border: 3px solid #ffc400;
+  background: #232323;
+  margin-bottom: 0.7rem;
+}
+
+.user-card h3 {
+  color: #ffc400;
+  margin-bottom: 0.3rem;
+}
+
+.user-card p {
+  color: #e0e0e0;
+  margin: 0.2rem 0;
+}
