@@ -37,196 +37,224 @@
       "name": "Kat Stratford",
       "email": "kat.stratford@email.com",
       "address": "Rua da Literatura, 505",
-      "avatar": "https://i.pravatar.cc/150?img=5"
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "description": "Feminista convicta, amante de poesia e sarcasmo. Prefere livros a festas e não tem medo de dizer o que pensa. Seu olhar pode ser tão afiado quanto suas palavras."
     },
     {
       "id": 6,
       "name": "Patrick Verona",
       "email": "patrick.verona@email.com",
       "address": "Av. Verona, 606",
-      "avatar": "https://i.pravatar.cc/150?img=6"
+      "avatar": "https://i.pravatar.cc/150?img=6",
+      "description": "Misterioso, rebelde e com um charme inegável. Tem fama de bad boy, mas esconde um coração gigante. Capaz de cantar no estádio só para conquistar alguém."
     },
     {
       "id": 7,
       "name": "Bianca Stratford",
       "email": "bianca.stratford@email.com",
       "address": "Rua das Rosas, 707",
-      "avatar": "https://i.pravatar.cc/150?img=7"
+      "avatar": "https://i.pravatar.cc/150?img=7",
+      "description": "Popular, sonhadora e cheia de energia. Adora moda, festas e tem um talento especial para conseguir o que quer. Mas no fundo, só quer ser compreendida."
     },
     {
       "id": 8,
       "name": "Cameron James",
       "email": "cameron.james@email.com",
       "address": "Av. dos Estudantes, 808",
-      "avatar": "https://i.pravatar.cc/150?img=8"
+      "avatar": "https://i.pravatar.cc/150?img=8",
+      "description": "Romântico incorrigível, acredita em amor à primeira vista. Aprendeu francês só para impressionar. Sempre disposto a ajudar os amigos, mesmo nas missões mais malucas."
     },
     {
       "id": 9,
       "name": "Michael Eckman",
       "email": "michael.eckman@email.com",
       "address": "Rua dos Amigos, 909",
-      "avatar": "https://i.pravatar.cc/150?img=9"
+      "avatar": "https://i.pravatar.cc/150?img=9",
+      "description": "O estrategista do grupo, mestre em planos mirabolantes. Tem um humor ácido e sempre tem uma resposta pronta. Sabe como ninguém navegar pelo caos do ensino médio."
     },
     {
       "id": 10,
       "name": "Joey Donner",
       "email": "joey.donner@email.com",
       "address": "Av. das Estrelas, 1010",
-      "avatar": "https://i.pravatar.cc/150?img=10"
+      "avatar": "https://i.pravatar.cc/150?img=10",
+      "description": "Modelo, narcisista e convencido. Acredita que o mundo gira ao seu redor. Seu maior talento? Fazer poses para a câmera e criar rivalidades épicas."
     },
     {
       "id": 11,
       "name": "Walter Stratford",
       "email": "walter.stratford@email.com",
       "address": "Rua dos Pais, 1111",
-      "avatar": "https://i.pravatar.cc/150?img=11"
+      "avatar": "https://i.pravatar.cc/150?img=11",
+      "description": "Pai superprotetor, especialista em regras absurdas. Tem pavor de adolescentes apaixonados e um radar infalível para encrenca. No fundo, só quer proteger suas filhas."
     },
     {
       "id": 12,
       "name": "Mandella",
       "email": "mandella@email.com",
       "address": "Av. das Artes, 1212",
-      "avatar": "https://i.pravatar.cc/150?img=12"
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "description": "Apaixonada por Shakespeare e tudo que é vintage. Tem um estilo único e uma alma romântica. Acredita que cada dia pode ser uma peça de teatro."
     },
     {
       "id": 13,
       "name": "Chastity Church",
       "email": "chastity.church@email.com",
       "address": "Rua da Igreja, 1313",
-      "avatar": "https://i.pravatar.cc/150?img=13"
+      "avatar": "https://i.pravatar.cc/150?img=13",
+      "description": "Sempre ao lado das amigas, adora fofocas e tendências. Tem opinião forte e não perde uma chance de dar conselhos, mesmo que ninguém peça."
     },
     {
       "id": 14,
       "name": "Heath Ledger",
       "email": "heath.ledger@email.com",
       "address": "Av. dos Atores, 1414",
-      "avatar": "https://i.pravatar.cc/150?img=14"
+      "avatar": "https://i.pravatar.cc/150?img=14",
+      "description": "Eterno ícone do cinema, dono de um sorriso inesquecível. Viveu personagens marcantes e deixou saudades em todos os fãs de comédias românticas e além."
     },
     {
       "id": 15,
       "name": "Julia Stiles",
       "email": "julia.stiles@email.com",
       "address": "Rua do Cinema, 1515",
-      "avatar": "https://i.pravatar.cc/150?img=15"
+      "avatar": "https://i.pravatar.cc/150?img=15",
+      "description": "Atriz versátil, conhecida por papéis inteligentes e fortes. Inspirou gerações com sua autenticidade e talento, seja dançando ou recitando poesia."
     },
     {
       "id": 16,
       "name": "Joseph Gordon-Levitt",
       "email": "joseph.gordon@email.com",
       "address": "Av. Hollywood, 1616",
-      "avatar": "https://i.pravatar.cc/150?img=16"
+      "avatar": "https://i.pravatar.cc/150?img=16",
+      "description": "O cara dos mil talentos: ator, diretor, músico e empreendedor. Sempre surpreende com projetos criativos e atuações memoráveis nas telonas."
     },
     {
       "id": 17,
       "name": "Allison Janney",
       "email": "allison.janney@email.com",
       "address": "Rua dos Professores, 1717",
-      "avatar": "https://i.pravatar.cc/150?img=17"
+      "avatar": "https://i.pravatar.cc/150?img=17",
+      "description": "Rainha das telas e dos palcos, com humor afiado e presença marcante. Consegue roubar a cena em qualquer papel, seja como mãe, professora ou chefe."
     },
     {
       "id": 18,
       "name": "Paul Rudd",
       "email": "paul.rudd@email.com",
       "address": "Av. das Comédias, 1818",
-      "avatar": "https://i.pravatar.cc/150?img=18"
+      "avatar": "https://i.pravatar.cc/150?img=18",
+      "description": "O homem que nunca envelhece! Mestre das comédias românticas, sempre com um sorriso pronto e piadas que conquistam qualquer coração."
     },
     {
       "id": 19,
       "name": "Cher Horowitz",
       "email": "cher.horowitz@email.com",
       "address": "Rua do Shopping, 1919",
-      "avatar": "https://i.pravatar.cc/150?img=19"
+      "avatar": "https://i.pravatar.cc/150?img=19",
+      "description": "Ícone fashion dos anos 90, especialista em transformar vidas (e guarda-roupas). Sempre otimista, acredita que um bom look pode mudar o mundo."
     },
     {
       "id": 20,
       "name": "Josh Lucas",
       "email": "josh.lucas@email.com",
       "address": "Av. dos Advogados, 2020",
-      "avatar": "https://i.pravatar.cc/150?img=20"
+      "avatar": "https://i.pravatar.cc/150?img=20",
+      "description": "O amigo sensato e conselheiro, sempre pronto para ouvir e ajudar. Tem um charme discreto e um coração enorme, daqueles que todo mundo confia."
     },
     {
       "id": 21,
       "name": "Andie Anderson",
       "email": "andie.anderson@email.com",
       "address": "Rua da Revista, 2121",
-      "avatar": "https://i.pravatar.cc/150?img=21"
+      "avatar": "https://i.pravatar.cc/150?img=21",
+      "description": "Jornalista ousada, capaz de tudo por uma boa matéria. Sabe como conquistar (e perder) um cara em 10 dias, sempre com muito estilo e humor."
     },
     {
       "id": 22,
       "name": "Ben Barry",
       "email": "ben.barry@email.com",
       "address": "Av. da Publicidade, 2222",
-      "avatar": "https://i.pravatar.cc/150?img=22"
+      "avatar": "https://i.pravatar.cc/150?img=22",
+      "description": "Publicitário confiante, adora desafios e apostas improváveis. Tem um sorriso irresistível e um talento especial para se meter em confusões românticas."
     },
     {
       "id": 23,
       "name": "Elle Woods",
       "email": "elle.woods@email.com",
       "address": "Rua da Universidade, 2323",
-      "avatar": "https://i.pravatar.cc/150?img=23"
+      "avatar": "https://i.pravatar.cc/150?img=23",
+      "description": "Rainha do rosa, prova que inteligência e glamour podem andar juntos. Venceu Harvard com charme, coragem e frases icônicas. 'What, like it's hard?'"
     },
     {
       "id": 24,
       "name": "Emmett Richmond",
       "email": "emmett.richmond@email.com",
       "address": "Av. Harvard, 2424",
-      "avatar": "https://i.pravatar.cc/150?img=24"
+      "avatar": "https://i.pravatar.cc/150?img=24",
+      "description": "O parceiro leal e compreensivo, sempre pronto para apoiar Elle. Gentil, inteligente e com um senso de humor que conquista qualquer tribunal."
     },
     {
       "id": 25,
       "name": "Vivian Kensington",
       "email": "vivian.kensington@email.com",
       "address": "Rua dos Advogados, 2525",
-      "avatar": "https://i.pravatar.cc/150?img=25"
+      "avatar": "https://i.pravatar.cc/150?img=25",
+      "description": "Competitiva e determinada, aprendeu que rivalidade pode virar amizade. Descobriu que o verdadeiro sucesso vem de ser autêntica e generosa."
     },
     {
       "id": 26,
       "name": "Kat Ellis",
       "email": "kat.ellis@email.com",
       "address": "Av. do Casamento, 2626",
-      "avatar": "https://i.pravatar.cc/150?img=26"
+      "avatar": "https://i.pravatar.cc/150?img=26",
+      "description": "Especialista em sobreviver a casamentos familiares caóticos. Sabe que às vezes o par perfeito aparece quando menos se espera (e com contrato!)."
     },
     {
       "id": 27,
       "name": "Nick Mercer",
       "email": "nick.mercer@email.com",
       "address": "Rua dos Noivos, 2727",
-      "avatar": "https://i.pravatar.cc/150?img=27"
+      "avatar": "https://i.pravatar.cc/150?img=27",
+      "description": "O acompanhante profissional mais charmoso do cinema. Tem resposta para tudo, dança bem e sabe como transformar um evento em algo inesquecível."
     },
     {
       "id": 28,
       "name": "Anna Scott",
       "email": "anna.scott@email.com",
       "address": "Av. Notting Hill, 2828",
-      "avatar": "https://i.pravatar.cc/150?img=28"
+      "avatar": "https://i.pravatar.cc/150?img=28",
+      "description": "Estrela de cinema mundialmente famosa, mas com um coração simples. Só queria ser uma garota, diante de um garoto, pedindo para ser amada."
     },
     {
       "id": 29,
       "name": "William Thacker",
       "email": "william.thacker@email.com",
       "address": "Rua dos Livros, 2929",
-      "avatar": "https://i.pravatar.cc/150?img=29"
+      "avatar": "https://i.pravatar.cc/150?img=29",
+      "description": "Dono de livraria tímido, especialista em situações embaraçosas. Provou que até um cara comum pode viver um romance de cinema em Notting Hill."
     },
     {
       "id": 30,
       "name": "Sally Albright",
       "email": "sally.albright@email.com",
       "address": "Av. Nova York, 3030",
-      "avatar": "https://i.pravatar.cc/150?img=30"
+      "avatar": "https://i.pravatar.cc/150?img=30",
+      "description": "Organizada, sincera e cheia de opiniões sobre tudo. Acredita que amizade entre homem e mulher é possível, mas a vida sempre surpreende."
     },
     {
       "id": 31,
       "name": "Harry Burns",
       "email": "harry.burns@email.com",
       "address": "Rua do Central Park, 3131",
-      "avatar": "https://i.pravatar.cc/150?img=31"
+      "avatar": "https://i.pravatar.cc/150?img=31",
+      "description": "Cínico, engraçado e dono das melhores teorias sobre relacionamentos. Descobriu que o amor pode estar onde menos se espera: na melhor amiga."
     },
     {
       "id": 32,
       "name": "Lara Jean Covey",
       "email": "lara.jean@email.com",
       "address": "Av. das Cartas, 3232",
-      "avatar": "https://i.pravatar.cc/150?img=32"
+      "avatar": "https://i.pravatar.cc/150?img=32",
+      "description": "Rainha das cartas secretas, vive entre sonhos e romances adolescentes. Mostrou que às vezes, para viver uma grande história, basta enviar uma carta."
     }
   ]
 }

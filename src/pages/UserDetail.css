@@ -7,13 +7,16 @@
   justify-content: center;
   z-index: 1000;
 }
+
 .user-detail-content {
   background: #232323;
   color: #fff;
   border-radius: 16px;
   padding: 2rem;
   min-width: 320px;
-  max-width: 90vw;
+  max-width: 420px;      /* Limite de largura */
+  max-height: 80vh;      /* Limite de altura */
+  overflow-y: auto;      /* Habilita scroll vertical se necessário */
   box-shadow: 0 8px 32px rgba(0,0,0,0.4);
   text-align: center;
   border: 2px solid #ffc400;
